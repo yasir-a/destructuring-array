@@ -1,1 +1,3 @@
 ## Destructuring Arrays
+
+code snippet
